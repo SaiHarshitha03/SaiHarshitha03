@@ -1,10 +1,11 @@
-
+<img width="677" height="355" alt="image" src="https://github.com/user-attachments/assets/5b38263b-e8fc-4d44-beb6-af63d55c4fad" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Adapa%20Sai%20Harshitha&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Data+Analyst;Building+AI+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<p>
+<div align="center">
+
 <a href="https://www.linkedin.com/in/sai-harshitha-adapa-a09a54305/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -13,11 +14,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SaiHarshitha_03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/SaiHarshitha03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 
 
@@ -28,7 +29,7 @@
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 **Vishnu Institute of Technology**
-- 📊 **CGPA:** 9.28/10
+- 📊 **CGPA:** 9.28
 - 💼 **Data Analyst Intern**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**
 - 🚀 Building AI-powered applications using **Python, FastAPI, Streamlit, TensorFlow, and RAG**
