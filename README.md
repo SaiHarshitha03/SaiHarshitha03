@@ -41,13 +41,13 @@
 - Generative AI
 - RAG Applications
 
-🌱 Currently Learning
+# 🌱 Currently Working On
 
-- FastAPI
-- LangChain
-- LLMs
-- Databricks
-- Power BI
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & REST APIs
+- ☁️ Databricks
+- 📊 Power BI Dashboards
 
 ---
 
