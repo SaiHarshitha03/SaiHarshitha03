@@ -182,7 +182,6 @@ An AI-powered emotion recognition system that analyzes facial expressions in rea
 - IBM SQL & Relational Databases
 - Google Cloud Generative AI
 - Deloitte Data Analytics Job Simulation
-- Databricks Training
 
 ---
 
