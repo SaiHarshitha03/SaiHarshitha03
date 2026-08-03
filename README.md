@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1878" height="432" alt="image" src="https://github.com/user-attachments/assets/74731842-8387-4109-9efd-24b31ab3d570" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Adapa%20Sai%20Harshitha&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
@@ -96,7 +96,7 @@ A deep learning-based blood cell classification system that identifies different
 - NumPy
 - Matplotlib
 
-**🔗 GitHub:** https://github.com/SaiHarshitha_03/HematoVision
+**🔗 GitHub:** https://github.com/SaiHarshitha03/HematoVision
 
 ---
 
