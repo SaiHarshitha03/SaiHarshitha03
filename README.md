@@ -92,11 +92,11 @@ AI-powered resume ranking system using NLP.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=SaiHarshitha03&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaiHarshitha03&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHarshitha03&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -106,7 +106,7 @@ AI-powered resume ranking system using NLP.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4)
+![](https://github-profile-trophy.vercel.app/?username=SaiHarshitha03&theme=tokyonight&no-frame=true&column=4)
 
 </div>
 
@@ -114,7 +114,7 @@ AI-powered resume ranking system using NLP.
 
 # 📈 Contribution Graph
 
-[![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiHarshitha03&theme=react-dark)](https://github.com/SaiHarshitha03)
 
 ---
 
@@ -167,12 +167,5 @@ AI-powered resume ranking system using NLP.
 </p>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=SaiHarshitha03&style=for-the-badge&color=blue)
-
-
-⭐ From [SaiHarshitha03](https://github.com/SaiHarshitha03)
 
 </div>
