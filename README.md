@@ -131,7 +131,7 @@ An AI-powered emotion recognition system that analyzes facial expressions in rea
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,nodejs,mysql,sqlite,firebase,git,github,vscode,tensorflow,pytorch,fastapi"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,mysql,sqlite,firebase,git,github,vscode,tensorflow,pytorch,fastapi"/>
 
 </p>
 
