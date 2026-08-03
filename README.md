@@ -19,40 +19,37 @@
 
 </p>
 
-</div>
-
----
 <h3 align="center">
-Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast
+🚀 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building AI-driven solutions that solve real-world problems through Machine Learning, Deep Learning, and Data Analytics.
+Building intelligent AI solutions with <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Data Analytics</b>, and <b>Generative AI</b> while continuously learning and contributing to impactful projects.
 </p>
 
+
+</div>
+
+---
 # 👩‍💻 About Me
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 **Vishnu Institute of Technology**
 - 📊 **CGPA:** 9.28/10
 - 💼 **Data Analyst Intern**
-- 🌱 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**
 - 🚀 Building AI-powered applications using **Python, FastAPI, Streamlit, TensorFlow, and RAG**
-- 📚 Always learning and exploring emerging AI technologies
-- 
-🤖 Interested in
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Generative AI
-- RAG Applications
+- 🌱 Continuously learning modern AI technologies and solving real-world problems through software development.
 
 # 🌱 Currently Working On
 
 - 🤖 Large Language Models (LLMs)
 - 🔍 Retrieval-Augmented Generation (RAG)
 - ⚡ FastAPI & REST APIs
+- 📊 Power BI
+- 🧠 LangChain
+
+
 
 
 ---
