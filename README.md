@@ -19,13 +19,6 @@
 
 </p>
 
-<h3 align="center">
-🚀 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast
-</h3>
-
-<p align="center">
-Building intelligent AI solutions with <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Data Analytics</b>, and <b>Generative AI</b> while continuously learning and contributing to impactful projects.
-</p>
 
 
 </div>
