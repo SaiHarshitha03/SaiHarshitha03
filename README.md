@@ -1,4 +1,4 @@
-<img width="677" height="355" alt="image" src="https://github.com/user-attachments/assets/5b38263b-e8fc-4d44-beb6-af63d55c4fad" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Adapa%20Sai%20Harshitha&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
