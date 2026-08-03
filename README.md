@@ -98,7 +98,6 @@ A deep learning-based blood cell classification system that identifies different
 
 **🔗 GitHub:** https://github.com/SaiHarshitha03/HematoVision
 
----
 
 ---
 
@@ -152,15 +151,7 @@ An AI-powered emotion recognition system that analyzes facial expressions in rea
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SaiHarshitha03&theme=tokyonight&no-frame=true&column=4)
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
