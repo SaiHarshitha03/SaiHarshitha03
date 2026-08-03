@@ -29,7 +29,7 @@
 
 🏫 Vishnu Institute of Technology
 
-📊 CGPA: **9.3+**
+📊 CGPA: **9.28+**
 
 💼 Data Analyst Intern
 
@@ -54,27 +54,77 @@
 # 🚀 Featured Projects
 
 ## 🤖 HelpGenie AI
-AI-powered RAG application for intelligent document question answering.
 
-**Tech Stack**
+An AI-powered Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural language questions. The system retrieves relevant document chunks using vector search and generates accurate, context-aware answers using Large Language Models.
 
+**✨ Features**
+- 📄 PDF document upload
+- 🔍 Semantic search using FAISS
+- 🤖 AI-powered question answering
+- ⚡ Fast and interactive Streamlit interface
+- 📚 Context-aware responses using RAG
+
+**🛠 Tech Stack**
 - Python
 - Streamlit
 - FAISS
-- HuggingFace
+- Hugging Face Transformers
 - Sentence Transformers
+- LangChain
+
+**🔗 GitHub:** https://github.com/SaiHarshitha_03/HelpGenieAI
+
 
 ---
 
 ## 🩸 HematoVision
 
-Deep Learning model for blood cell classification using MobileNetV2.
+A deep learning-based blood cell classification system that identifies different blood cell types from microscopic images using transfer learning. The project assists in automated medical image analysis and improves diagnostic efficiency.
+
+**✨ Features**
+- Blood cell image classification
+- MobileNetV2 transfer learning
+- Image preprocessing
+- Model evaluation with accuracy metrics
+- Easy-to-use prediction interface
+
+**🛠 Tech Stack**
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+- Matplotlib
+
+**🔗 GitHub:** https://github.com/SaiHarshitha_03/HematoVision
 
 ---
 
-## 📄 AI Resume Screener
+---
 
-AI-powered resume ranking system using NLP.
+## 😊 Emotion Detection Engine
+
+An AI-powered emotion recognition system that analyzes facial expressions in real time to detect human emotions such as Happy, Sad, Angry, Fear, Surprise, Neutral, and Disgust. The application leverages computer vision and deep learning to provide accurate emotion classification from images or live webcam feeds.
+
+**✨ Features**
+- 😊 Real-time facial emotion detection
+- 📷 Webcam and image input support
+- 🧠 Deep learning-based emotion classification
+- 📊 Displays predicted emotion with confidence score
+- ⚡ Fast and user-friendly interface
+- 🎯 Detects multiple emotions simultaneously
+
+**🛠 Tech Stack**
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Matplotlib
+- CNN (Convolutional Neural Network)
+
+**🔗 GitHub:** https://github.com/SaiHarshitha03/Emotion_Detection_Learning_Support_Engine
+
+
 
 ---
 
@@ -82,7 +132,7 @@ AI-powered resume ranking system using NLP.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,nodejs,express,react,mysql,sqlite,firebase,git,github,vscode,tensorflow,pytorch,fastapi"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,nodejs,mysql,sqlite,firebase,git,github,vscode,tensorflow,pytorch,fastapi"/>
 
 </p>
 
